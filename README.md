@@ -1,5 +1,5 @@
 # Personal Projects
-$$ x^2 $$
+<!-- $$ x^2 $$ -->
 
 # School Projects
 
