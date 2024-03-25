@@ -1,2 +1,5 @@
-# Hello
-$ x_2 $
+# Personal Projects
+$$ x^2 $$
+
+# School Projects
+
